@@ -16,7 +16,7 @@ registran.
 
 donde la constante \$A\$ es tal que la integral del pulso es igual a 1.
 
-![image](../figuras/ej_deteccion_modelo.png)
+![image](figuras/ej_deteccion_modelo.png)
 
 
 -   La señal modelo está caracterizada por tres parámetros: el centro
@@ -27,7 +27,7 @@ donde la constante \$A\$ es tal que la integral del pulso es igual a 1.
     uno o más pulsos generados por el detector como se ve en la
     siguiente animación
 
-![image](../figuras/ej_deteccion_signals.gif)
+![image](figuras/ej_deteccion_signals.gif)
 
 
 Como los distintos pulsos que forman la señal corresponden a distintos
@@ -89,7 +89,7 @@ Se le pide que:
     resultado de `N` mediciones. Grafique el promedio de esas mediciones
     como se muestra en la figura
 
-    ![image](../figuras/ej_deteccion_promedio.png)
+    ![image](figuras/ej_deteccion_promedio.png)
 
 3.  Obtenga los datos de promedios de 10000 mediciones para tres casos
     diferentes
